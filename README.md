@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Some tools I used:
+
+
+### Languages and Tools I use:
+
+<img align="left" alt="Typescript" width="26px" src="./assets/TS.png" />
+<img align="left" alt="VSCode" width="26px" src="./assets/visual-studio-code.png" />
+<img align="left" alt="VSCode" width="26px" src="./assets/nvim.png" />
 <!--
 **anupam-basu/anupam-basu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
