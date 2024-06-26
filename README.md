@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Some tools I used:
-
 
 ### Languages and Tools I use:
 
